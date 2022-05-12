@@ -1,4 +1,4 @@
-#include <Adafruit_BMP280.h>
+#include <Adafruit_BMP280.h> // include the BMP Library
 #include <Wire.h>
 #include <MPU6050.h>
 #include <dht.h>
